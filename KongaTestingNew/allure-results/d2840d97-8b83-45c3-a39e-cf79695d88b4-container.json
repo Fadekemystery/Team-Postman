@@ -1,0 +1,1 @@
+{"uuid":"d2840d97-8b83-45c3-a39e-cf79695d88b4","name":"KongaTestingNew","children":["dfecd19f-6fb8-4de2-8b22-27b8b17949dd"],"befores":[],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1689788016218,"stop":1689788018029}],"start":1689788004579,"stop":1689788018031}
